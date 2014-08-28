@@ -7,7 +7,7 @@
 	<name>PushNotification</name>
 
 
-	<js-module src="www/PushNotification.js" name="www/PushNotification.jse">
+	<js-module src="www/PushNotification.js" name="www/PushNotification.js">
             <clobbers target="www/PushNotification" />
         </js-module>
 
