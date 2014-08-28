@@ -8,7 +8,7 @@
 
 
 	<js-module src="www/PushNotification.js" name="www/PushNotification.js">
-            <clobbers target="www/PushNotification" />
+            <clobbers target="PushNotification" />
         </js-module>
 
 
